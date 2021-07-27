@@ -1,7 +1,7 @@
-# Writing the next hit song
+# Making a pop hit
 
 ## Modules
-###01 Analysis
+### 01 Analysis
 An exploratory analysis on maximising my chances of making the next hit song.  
 Explore the Spotify dataset for features that may give me the edge on writing a popular song.  
   
