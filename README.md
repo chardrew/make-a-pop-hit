@@ -10,6 +10,8 @@ Dataset: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 ### 02 Data scraping
 Scraping a user-specified number of the most popular guitar chords and parsing them to be used in machine learning model
 
+Site: https://www.ultimate-guitar.com/explore?order=hitstotal_desc&page=1&type[]=Chords
+
 ### 03 Chord progression generator
 Build, train and test a machine learning model to generate chord progression with high popularity
 
