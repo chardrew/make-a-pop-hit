@@ -61,7 +61,7 @@ def map_to_chord_numbers(a):
 filename_inference_model = 'model'
 MODEL_PATH = os.path.join('..', filename_inference_model)
 model = load_model(MODEL_PATH)
-DATA_DIR = os.path.join(os.getcwd(), '..', '..', 'data')
+DATA_DIR = os.path.join(os.getcwd(), '..', 'data')
 
 # Load sequence -> chord mapper
 DATA_LOOKUPS_DIR = os.path.join(DATA_DIR, 'lookups')
