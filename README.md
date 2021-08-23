@@ -14,4 +14,18 @@ Scraping a user-specified number of the most popular guitar chords and parsing t
 Build, train and test a machine learning model to generate chord progression with high popularity
 
 ### 04 Results
-Want to skip to the results? Watch it in action!
+Want to skip to the results? Watch it in action or...
+
+# Try it for yourself!
+### Clone repo
+`git clone https://github.com/chardrew/make-a-pop-hit.git`
+### Change directory
+`cd make-a-pop-hit`
+### Build docker image
+`docker build -t chardrew/chord_progression_generator:1.0 .`
+### Create a container using the image
+`docker run -it chardrew/chord_progression_generator:1.0`
+### Navigate to script
+`cd src`
+### Start generating sequences
+`python chord_progression_generator.py`
