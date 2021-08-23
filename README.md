@@ -18,7 +18,7 @@ Build, train and test a machine learning model to generate chord progression wit
 ### 04 Results
 Want to skip to the results? Watch it in action or...
 
-# Try it for yourself!
+## Try it for yourself!
 ### Clone repo
 `git clone https://github.com/chardrew/make-a-pop-hit.git`
 ### Change directory
