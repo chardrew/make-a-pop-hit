@@ -1,5 +1,5 @@
 
-# 🎶 Making a Pop Hit 🎤
+# 🎶 Chord Progression Generator 🎤
 
 This project explores how to maximise the chances of creating the next big hit song. The approach combines data analysis, machine learning, and chord progression generation to identify the key features of popular songs and leverage them in generating new music.
 
